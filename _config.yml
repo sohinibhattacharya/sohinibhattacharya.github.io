@@ -8,7 +8,7 @@
 ############################
 # --- Required options --- #
 ############################
-url: "https://sohinibhattacharya.github.io"
+url: "https://sohini-bhattacharya.github.io"
 
 # Name of website
 title: Sohini Bhattacharya
@@ -22,7 +22,7 @@ author: Sohini Bhattacharya
 
 navbar-links:
   About Me: "aboutme"
-  CV : "https://github.com/sohinibhattacharya/sohinibhattacharya.github.io/blob/master/assets/Resume_SohiniBhattacharya_2022 (1).pdf?raw=true"
+  CV : "https://github.com/sohini-bhattacharya/sohini-bhattacharya.github.io/blob/master/assets/Resume_SohiniBhattacharya_2022 (1).pdf?raw=true"
   More Things:
     - Projects: "projects"
     - Skills: "skills"
@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/images/IMG_5532.PNG"
+avatar: "assets/img/avatar.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -42,7 +42,7 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 # title-img: "assets/images/sunsetboat.jpeg"
-favicon: "assets/images/favicon.ico"
+favicon: "assets/img/favicon.ico"
 
 #####################################
 # --- Footer social media links --- #
@@ -143,8 +143,8 @@ footer-hover-col: "#C9CC3F"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "assets/images/zoomedpainting.jpg"
-footer-img: "assets/images/zoomedpainting.jpg"
+navbar-img: "assets/img/zoomedpainting.jpg"
+footer-img: "assets/img/zoomedpainting.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
