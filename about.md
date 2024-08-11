@@ -7,7 +7,6 @@ subtitle: Hi! This is Sohini.
 <!-- ###  -->
 
 <p style='text-align: justify;'>
-    <img src="assets/img/avatar.jpg" width="222" height="222" style="float:right;border-radius: 50%">
     I'm a recent graduate with a degree in Computer Science from Shiv Nadar University, India. 
     I currently work as a Software Engineer at Hewlett Packard Enterprise. 
     <br>
