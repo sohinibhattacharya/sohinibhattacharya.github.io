@@ -1,6 +1,6 @@
 ---
 layout: page
-title: skills
+title: paintings
 ---
 <p style='text-align: justify;'>
 Some of my paintings. I hope to devote more of my time towards this hobby of mine!
