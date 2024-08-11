@@ -8,7 +8,7 @@
 ############################
 # --- Required options --- #
 ############################
-url: "https://sohini-bhattacharya.github.io"
+url: "https://sohinibhattacharya.github.io"
 
 # Name of website
 title: Sohini Bhattacharya
@@ -22,7 +22,7 @@ author: Sohini Bhattacharya
 
 navbar-links:
   About Me: "aboutme"
-  CV : "https://github.com/sohini-bhattacharya/sohini-bhattacharya.github.io/blob/master/assets/Resume_SohiniBhattacharya_2022 (1).pdf?raw=true"
+  CV : "https://github.com/sohinibhattacharya/sohinibhattacharya.github.io/blob/master/assets/Resume_SohiniBhattacharya_2022 (1).pdf?raw=true"
   More Things:
     - Projects: "projects"
     - Skills: "skills"
@@ -54,7 +54,7 @@ social-network-links:
   email: "mail.sohinibhattacharya@gmail.com"
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
-  github: "sohini-bhattacharya"
+  github: "sohinibhattacharya"
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
@@ -73,6 +73,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
+  leetcode: "sohinibhattacharya"
   ORCID: "0000-0002-2180-2980"
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
@@ -92,6 +93,7 @@ share-links-active:
   email: true
   github: true
   linkedin: true
+  leetcode: true
   ORCID: false
 
 # How to display the link to your website in the footer
@@ -143,8 +145,8 @@ footer-hover-col: "#C9CC3F"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "assets/images/painting.JPG"
-footer-img: "assets/images/painting.JPG"
+navbar-img: "assets/images/painting.jpg"
+footer-img: "assets/images/painting.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
