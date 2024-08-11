@@ -22,7 +22,7 @@ author: Sohini Bhattacharya
 
 navbar-links:
   aboutme: "aboutme"
-  cv : "https://github.com/sohinibhattacharya/sohinibhattacharya.github.io/blob/master/assets/Resume_SohiniBhattacharya_2022 (1).pdf?raw=true"
+  cv : "https://github.com/sohinibhattacharya/sohinibhattacharya.github.io/blob/master/assets/docs/Resume_SohiniBhattacharya_2024.pdf?raw=true"
   news: "news"
   paintings: "paintings"
      
@@ -128,7 +128,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#3A4A3D"
+navbar-text-col: "#F8F8F5"
 navbar-border-col: "#EAEAEA"
 page-col: "#282120"
 text-col: "#F8F8F5"
