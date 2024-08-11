@@ -11,7 +11,7 @@ subtitle: Hi! This is Sohini.
     I may be new to the domain, but I bring fresh perspectives, enthusiasm, and an eagerness to learn and grow. I want to explore more research domains and am eager to contribute to innovative projects, leveraging my problem-solving skills and adaptability. I believe that I communicate very well, and I have the confidence to put forward my views and learn from my mistakes. Always eager to learn more! Hoping to have a positive impact on the world.
     <br>
     <br>
-    Apart from that, I enjoy painting, reading books, cooking and would like to get back to playing tennis again. In my free time, I like doing leetcode (id: sohinibhattacharya). Aiming to learn how to play the piano someday. 
+    Apart from that, I enjoy painting, reading books, doing <a href="https://leetcode.com/sohinibhattacharya/">leetcode</a> and would like to get back to playing tennis again. Aiming to learn how to play the piano someday. 
 </p>
 <!-- To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
  -->
