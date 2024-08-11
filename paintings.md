@@ -3,7 +3,7 @@ layout: page
 title: paintings
 ---
 <p style='text-align: justify;'>
-Some of my paintings. I hope to devote more of my time towards this hobby of mine!
+Some of my paintings.
 
 </p>
   
