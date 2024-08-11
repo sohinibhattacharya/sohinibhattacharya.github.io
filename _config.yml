@@ -8,7 +8,7 @@
 ############################
 # --- Required options --- #
 ############################
-url: "https://sohini-bhattacharya.github.io"
+url: "https://sohinibhattacharya.github.io"
 
 # Name of website
 title: Sohini Bhattacharya
@@ -21,13 +21,11 @@ author: Sohini Bhattacharya
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  CV : "https://github.com/sohini-bhattacharya/sohini-bhattacharya.github.io/blob/master/assets/Resume_SohiniBhattacharya_2022 (1).pdf?raw=true"
-  More Things:
-    - Projects: "projects"
-    - Skills: "skills"
-    - News: "news"
-    
+  aboutme: "aboutme"
+  cv : "https://github.com/sohinibhattacharya/sohinibhattacharya.github.io/blob/master/assets/Resume_SohiniBhattacharya_2022 (1).pdf?raw=true"
+  news: "news"
+  paintings: "paintings"
+     
 ################
 # --- Logo --- #
 ################
@@ -77,6 +75,7 @@ social-network-links:
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
+  leetcode: "sohinibhattacharya"
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
@@ -92,7 +91,8 @@ share-links-active:
   email: true
   github: true
   linkedin: true
-  ORCID: false
+  ORCID: true
+  leetcode: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -128,15 +128,15 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#EAEAEA"
+navbar-text-col: "#3A4A3D"
 navbar-border-col: "#EAEAEA"
-page-col: "#3A4A3D"
+page-col: "#282120"
 text-col: "#F8F8F5"
 link-col: "#3A4A3D"
 hover-col: "#3A4A3D"
 footer-col: "#EAEAEA"
-footer-text-col: "#487392"
-footer-link-col: "#8B7F9E"
+footer-text-col: "#3A4A3D"
+footer-link-col: "#3A4A3D"
 footer-hover-col: "#EAEAEA"
 
 
