@@ -1,6 +1,6 @@
 ---
 layout: home
-title: aboutme
+title: about
 subtitle: Hey! This is Sohini.
 ---
 
