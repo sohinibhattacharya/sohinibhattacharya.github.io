@@ -6,6 +6,8 @@ title: paintings
 Some of my paintings.
 
 </p>
+
+![Kali Yantra](assets/paintings/kaliyantra.jpeg)
   
 ![Flower & Bee](assets/paintings/flowerandbee.jpeg)
 
