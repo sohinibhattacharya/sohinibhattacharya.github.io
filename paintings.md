@@ -6,6 +6,8 @@ title: paintings
 Some of my paintings.
 
 </p>
+![Pretty Sky](assets/paintings/prettysky.jpeg)
+
 ![Honey Bee](assets/paintings/honeybee.jpeg)
 
 ![Kali Yantra](assets/paintings/kaliyantra.jpeg)
@@ -25,4 +27,7 @@ Some of my paintings.
 ![Blue Butterfly](assets/paintings/bluebutterfly.jpeg)
 
 ![Raven](assets/paintings/raven.jpeg)
+
+![Kali Ma](assets/paintings/kalima.jpeg)
+
 
