@@ -21,9 +21,9 @@ author: Sohini Bhattacharya
 ###############################################
 
 navbar-links:
-  about: "about"
-  cv : "assets/docs/Resume_SohiniBhattacharya_2024.pdf"
-  news: "news"
+  #about: "about"
+  #cv : "assets/docs/Resume_SohiniBhattacharya_2024.pdf"
+  #news: "news"
   paintings: "paintings"
      
 ################
@@ -49,16 +49,16 @@ favicon: "assets/img/sunflowericon.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mail.sohinibhattacharya@gmail.com"
+  #email: "mail.sohinibhattacharya@gmail.com"
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
-  github: "sohinibhattacharya"
+  #github: "sohinibhattacharya"
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "sohini-bhattacharya-795169239"
+  #linkedin: "sohini-bhattacharya-795169239"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,11 +71,11 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: "0000-0002-2180-2980"
+  #ORCID: "0000-0002-2180-2980"
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
-  leetcode: "sohinibhattacharya"
+  #leetcode: "sohinibhattacharya"
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
