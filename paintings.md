@@ -31,7 +31,7 @@ Some of my paintings.
 
 ![Sakura Tree](assets/paintings/sakuratree.jpeg)
 
-![Yellow_Jamini](assets/paintings/yellow_jamini.jpg)
+![Jamini_Yellow](assets/paintings/jamini_yellow.jpg)
 
 ![Raven](assets/paintings/raven.jpeg)
 
