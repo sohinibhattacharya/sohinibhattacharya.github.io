@@ -1,11 +1,7 @@
 ---
 layout: page
-title: paintings
+title: some of my paintings
 ---
-<p style='text-align: justify;'>
-Some of my paintings.
-
-</p>
 
 ![Oyster](assets/paintings/oyster.jpg)
 
