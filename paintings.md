@@ -1,6 +1,6 @@
 ---
 layout: page
-title: some of my paintings
+title: sometimes, artsy
 ---
 
 ![Oyster](assets/paintings/oyster.jpg)
