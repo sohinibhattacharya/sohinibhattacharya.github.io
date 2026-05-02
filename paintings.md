@@ -6,7 +6,14 @@ title: paintings
 Some of my paintings.
 
 </p>
+
+![Oyster](assets/paintings/oyster.jpg)
+
+![Blue Butterfly](assets/paintings/bluebutterfly.jpeg)
+
 ![Pretty Sky](assets/paintings/prettysky.jpeg)
+
+![Pottery_Painting](assets/paintings/pottery_painting.jpg)
 
 ![Honey Bee](assets/paintings/honeybee.jpeg)
 
@@ -24,7 +31,7 @@ Some of my paintings.
 
 ![Sakura Tree](assets/paintings/sakuratree.jpeg)
 
-![Blue Butterfly](assets/paintings/bluebutterfly.jpeg)
+![Yellow_Jamini](assets/paintings/yellow_jamini.jpg)
 
 ![Raven](assets/paintings/raven.jpeg)
 
