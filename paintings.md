@@ -5,11 +5,15 @@ title: sometimes, artsy
 
 ![Oyster](assets/paintings/oyster.jpg)
 
+![Lemons](assets/paintings/lemons.jpg)
+
 ![Blue Butterfly](assets/paintings/bluebutterfly.jpeg)
 
-![Pretty Sky](assets/paintings/prettysky.jpeg)
+![Forest_Stairs](assets/paintings/forest_stairs.jpg)
 
 ![Pottery_Painting](assets/paintings/pottery_painting.jpg)
+
+![Pretty Sky](assets/paintings/prettysky.jpeg)
 
 ![Honey Bee](assets/paintings/honeybee.jpeg)
 
@@ -27,7 +31,11 @@ title: sometimes, artsy
 
 ![Sakura Tree](assets/paintings/sakuratree.jpeg)
 
+![Vase](assets/paintings/vase.JPG)
+
 ![Jamini_Yellow](assets/paintings/jamini_yellow.jpg)
+
+![Abstract_Landscape](assets/paintings/abstract_landscape.jpg)
 
 ![Raven](assets/paintings/raven.jpeg)
 
